@@ -185,6 +185,7 @@ html {
         width: 50%;
     }
     .col-3{
-        width: 90%;
+        width: 100%;
+        text-align: center;
     }
 }
